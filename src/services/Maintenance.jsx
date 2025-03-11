@@ -18,7 +18,7 @@ function Maintenance() {
       <HeroBackground
         title={t("Maintenance.heroTitle")}
         subtitle={t("Maintenance.heroSubtitle")}
-        image="/src/images/maintenance-bg.webp"
+        image="/images/maintenance-bg.webp"
       />
 
       {/* Service Details */}
@@ -41,7 +41,7 @@ function Maintenance() {
             transition={{ duration: 0.5 }}
           >
             <img
-              src="/src/images/maintenance.webp"
+              src="/images/maintenance.webp"
               alt={t("Maintenance.imageAlt")}
               className="w-full h-auto object-cover"
             />

@@ -26,7 +26,7 @@ function Consulting() {
       <HeroBackground
         title={t("Consulting.heroTitle")}
         subtitle={t("Consulting.heroSubtitle")}
-        image="/src/images/consulting-bg.webp"
+        image="/images/consulting-bg.webp"
       />
 
       <section className="container mx-auto py-16 px-6">
@@ -48,7 +48,7 @@ function Consulting() {
             transition={{ duration: 0.5 }}
           >
             <img
-              src="/src/images/consulting.webp"
+              src="/images/consulting.webp"
               alt={t("Consulting.imageAlt")}
               className="w-full h-full object-cover"
             />

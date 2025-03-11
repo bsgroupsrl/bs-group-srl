@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 import { Link } from "react-router-dom";
 import { useTranslation, Trans } from "react-i18next";
 
-function HeroBackground({ image = "/src/images/main-hero-bg.jpg" }) {
+function HeroBackground({ image = "/images/main-hero-bg.jpg" }) {
   const { t } = useTranslation();
 
   return (

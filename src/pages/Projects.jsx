@@ -10,10 +10,10 @@ import "swiper/css/pagination";
 import { useTranslation } from "react-i18next";
 
 const projectImages = [
-  "/src/images/renovation.webp",
-  "/src/images/renovation.webp",
-  "/src/images/renovation.webp",
-  "/src/images/renovation.webp",
+  "/images/renovation.webp",
+  "/images/renovation.webp",
+  "/images/renovation.webp",
+  "/images/renovation.webp",
 ];
 
 function Projects() {

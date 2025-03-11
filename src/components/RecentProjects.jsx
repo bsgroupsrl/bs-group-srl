@@ -3,9 +3,9 @@ import { Link } from "react-router-dom";
 import { useTranslation, Trans } from "react-i18next";
 
 const projectsData = [
-  { id: 1, image: "/src/images/projects/office.webp" },
-  { id: 2, image: "/src/images/projects/residential.webp" },
-  { id: 3, image: "/src/images/projects/warehouse.webp" },
+  { id: 1, image: "/images/projects/office.webp" },
+  { id: 2, image: "/images/projects/residential.webp" },
+  { id: 3, image: "/images/projects/warehouse.webp" },
 ];
 
 function RecentProjects() {

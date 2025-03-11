@@ -4,9 +4,9 @@ import { useState } from "react";
 import { useTranslation } from "react-i18next";
 
 const testimonialsData = [
-  { id: 1, image: "/src/images/testimonials/john.png" },
-  { id: 2, image: "/src/images/testimonials/sarah.png" },
-  { id: 3, image: "/src/images/testimonials/michael.png" },
+  { id: 1, image: "/images/testimonials/john.png" },
+  { id: 2, image: "/images/testimonials/sarah.png" },
+  { id: 3, image: "/images/testimonials/michael.png" },
 ];
 
 function Testimonials() {

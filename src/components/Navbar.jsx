@@ -3,8 +3,8 @@ import { Link, useNavigate } from "react-router-dom";
 import { FaBars, FaTimes, FaChevronDown, FaFacebook, FaInstagram, FaLinkedin, FaWhatsapp } from "react-icons/fa";
 import { motion, AnimatePresence } from "framer-motion";
 import { useTranslation } from "react-i18next";
-import ReactLogo from "../images/bs-group-srl-ye.png";
-import ReactLogow from "../images/bs-group-srl.png";
+import ReactLogo from "/images/bs-group-srl-ye.png";
+import ReactLogow from "/images/bs-group-srl.png";
 
 function Navbar() {
   const { t } = useTranslation();

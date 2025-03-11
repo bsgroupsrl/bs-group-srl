@@ -25,7 +25,7 @@ function Renovation() {
       <HeroBackground
         title={t("Renovation.heroTitle")}
         subtitle={t("Renovation.heroSubtitle")}
-        image="/src/images/renovation-bg.webp"
+        image="/images/renovation-bg.webp"
       />
 
       <section className="container mx-auto py-16 px-6">
@@ -47,7 +47,7 @@ function Renovation() {
             transition={{ duration: 0.5 }}
           >
             <img
-              src="/src/images/renovation.webp"
+              src="/images/renovation.webp"
               alt={t("Renovation.imageAlt")}
               className="w-full h-auto object-cover"
             />

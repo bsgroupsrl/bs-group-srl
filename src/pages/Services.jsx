@@ -10,22 +10,22 @@ import TrustedPartners from "../components/TrustedPartners";
 const servicesData = [
   {
     icon: <FaBuilding className="text-4xl text-yellow-500" />,
-    image: "/src/images/construction.webp",
+    image: "/images/construction.webp",
     link: "/services/construction",
   },
   {
     icon: <FaHammer className="text-4xl text-yellow-500" />,
-    image: "/src/images/renovation.webp",
+    image: "/images/renovation.webp",
     link: "/services/renovation",
   },
   {
     icon: <FaClipboardList className="text-4xl text-yellow-500" />,
-    image: "/src/images/consulting.webp",
+    image: "/images/consulting.webp",
     link: "/services/consulting",
   },
   {
     icon: <FaTools className="text-4xl text-yellow-500" />,
-    image: "/src/images/maintenance.webp",
+    image: "/images/maintenance.webp",
     link: "/services/maintenance",
   },
 ];
@@ -37,7 +37,7 @@ function Services() {
   return (
     <div>
       {/* Hero Section */}
-      <HeroBackground image="/src/images/services-bg.webp" />
+      <HeroBackground image="/images/services-bg.webp" />
 
       {/* Services Section */}
       <section className="container mx-auto py-16 px-6">

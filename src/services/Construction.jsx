@@ -27,7 +27,7 @@ function Construction() {
       <HeroBackground
         title={t("Construction.heroTitle")}
         subtitle={t("Construction.heroSubtitle")}
-        image="/src/images/construction-bg.webp"
+        image="/images/construction-bg.webp"
       />
 
       <section className="container mx-auto py-16 px-6">
@@ -49,7 +49,7 @@ function Construction() {
             transition={{ duration: 0.5 }}
           >
             <img
-              src="/src/images/construction.webp"
+              src="/images/construction.webp"
               alt={t("Construction.imageAlt")}
               className="w-full h-auto object-cover"
             />
