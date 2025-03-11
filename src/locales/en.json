@@ -1,0 +1,306 @@
+{
+  "Achievements": {
+    "header": {
+      "before": "Our",
+      "highlight": "Achievements"
+    },
+    "achievements": [
+      {
+        "title": "50+ Successful Projects",
+        "description": "We have completed over 50 high-quality projects, delivering excellence every time."
+      },
+      {
+        "title": "10+ Awards Won",
+        "description": "Recognized for our innovation and quality in construction services."
+      },
+      {
+        "title": "200+ Satisfied Clients",
+        "description": "Customer satisfaction is at the core of our business, with over 200 happy clients."
+      },
+      {
+        "title": "30+ Ongoing Projects",
+        "description": "We are currently working on over 30 projects, maintaining our momentum in the industry."
+      }
+    ]
+  },
+  "CallToAction": {
+    "header": {
+      "before": "Why Choose",
+      "highlight": "BS GROUP SRL?"
+    },
+    "services": [
+      {
+        "title": "High-Quality Construction",
+        "description": "We deliver top-notch construction services with precision and efficiency."
+      },
+      {
+        "title": "Modern Architecture",
+        "description": "Our designs blend innovation and functionality for stunning results."
+      },
+      {
+        "title": "Client-Centric Approach",
+        "description": "We collaborate closely with our clients to ensure satisfaction and excellence."
+      }
+    ],
+    "link": "Explore Our Services"
+  },
+  "Footer": {
+    "companyInfo": {
+      "name": "BS GROUP SRL",
+      "tagline": "Building the future with innovation and excellence."
+    },
+    "quickLinks": {
+      "header": "Quick Links",
+      "items": ["Home", "About", "Services", "Projects", "Contact"]
+    },
+    "contact": {
+      "title": "Contact",
+      "address": "Via Marcantonio de re ,6 Milano 20156",
+      "phone": "+39 327 944 9458",
+      "email": "info@bsgroupsrl.net"
+    },
+    "copyright": "© 2025 BS GROUP SRL. All rights reserved."
+  },
+  "HeroBackground": {
+    "title": "Building the Future, <1>Today</1>",
+    "subtitle": "High-quality construction services with innovation and excellence.",
+    "buttons": {
+      "viewProjects": "View Projects",
+      "getInTouch": "Get in Touch"
+    }
+  },
+  "Navbar": {
+  "logo": {
+    "group": "BS GROUP",
+    "srl": "SRL"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "dropdown": {
+    "services": "Services",
+    "construction": "Construction",
+    "renovation": "Renovation",
+    "consulting": "Consulting",
+    "maintenance": "Maintenance"
+  }
+ },
+ "OurTeam": {
+  "header": "Meet Our <1>Team</1>",
+  "teamMembers": [
+    {
+      "name": "Bebo Donga",
+      "role": "CEO & Founder"
+    },
+    {
+      "name": "Simo",
+      "role": "Project Manager"
+    },
+    {
+      "name": "Emma Mechrgui",
+      "role": "Lead Engineer"
+    },
+    {
+      "name": "Franshisco",
+      "role": "Geometer"
+    }
+  ]
+},
+"RecentProjects": {
+  "header": "Our <1>Recent Projects</1>",
+  "projects": [
+    {
+      "title": "Modern Office Building",
+      "description": "A state-of-the-art office space designed for productivity and aesthetics."
+    },
+    {
+      "title": "Luxury Residential Complex",
+      "description": "A high-end residential project blending luxury with sustainability."
+    },
+    {
+      "title": "Industrial Warehouse",
+      "description": "An efficient warehouse with modern infrastructure for logistics and storage."
+    }
+  ],
+  "viewDetails": "View Details →",
+  "viewAllProjects": "View All Projects"
+},
+"Statistics": {
+  "header": "Why Choose <1>Us?</1>",
+  "stats": [
+    {
+      "label": "Completed Projects"
+    },
+    {
+      "label": "Industry Awards"
+    },
+    {
+      "label": "Happy Clients"
+    },
+    {
+      "label": "Ongoing Projects"
+    }
+  ]
+},
+"Testimonials": {
+  "header": {
+    "before": "What Our",
+    "highlight": "Clients Say"
+  },
+  "testimonials": [
+    {
+      "name": "John Doe",
+      "role": "CEO, Skyline Constructions",
+      "feedback": "BS GROUP SRL delivered our project on time with exceptional quality. Their professionalism and expertise made the entire process seamless."
+    },
+    {
+      "name": "Sarah Smith",
+      "role": "Project Manager, GreenBuild",
+      "feedback": "Their attention to detail and commitment to excellence is unmatched. I highly recommend them for any construction project."
+    },
+    {
+      "name": "Michael Brown",
+      "role": "Owner, Elite Properties",
+      "feedback": "Working with BS GROUP SRL was a fantastic experience. Their team exceeded our expectations in every way possible."
+    }
+  ]
+},
+"TrustedPartners": {
+  "header": {
+    "before": "Our",
+    "highlight": "Trusted Partners"
+  },
+  "partners": [
+    { "name": "Partner 1" },
+    { "name": "Partner 2" },
+    { "name": "Partner 3" },
+    { "name": "Partner 4" },
+    { "name": "Partner 5" }
+  ]
+},
+"About": {
+  "header": "About <1>BS GROUP SRL</1>",
+  "description": "BS GROUP SRL specializes in turnkey renovation services. The company is experienced in turnkey renovation works for apartments and shops. By relying on BS GROUP SRL, the client can count on qualified personnel capable of answering all questions and concerns, solving any type of problem. The construction company provides a comprehensive service that includes: preparing an economic assessment, designing the project, planning, managing, and supervising the work, and finally coordinating all contractors and suppliers. It offers free quotes and is available for customer assistance before, during, and after the completion of the work."
+},
+"Contact": {
+  "sectionHeader": "Contact Us",
+  "sectionParagraph": "We'd love to hear from you! Get in touch with us for inquiries, collaborations, or just to say hello.",
+  "cards": {
+    "address": {
+      "title": "Address",
+      "text": "Via Marcantonio de re ,6 Milano 20156"
+    },
+    "phone": {
+      "title": "Phone",
+      "text": "+39 327 944 9458"
+    },
+    "email": {
+      "title": "Email",
+      "text": "info@bsgroupsrl.net"
+    }
+  },
+  "form": {
+    "heading": "Send Us a Message",
+    "input": {
+      "name": "Your Name",
+      "email": "Your Email",
+      "message": "Your Message"
+    },
+    "button": "Send Message",
+    "success": "Message sent successfully!",
+    "error": "Failed to send message. Try again."
+  },
+  "location": {
+    "heading": "📍 Our Location"
+  }
+},
+"Projects": {
+  "header": "Our Projects",
+  "description": "We take pride in delivering high-quality construction projects that stand the test of time.",
+  "imageAlt": "Project {{index}}"
+},
+"Services": {
+  "header": "What We Offer",
+  "services": [
+    {
+      "title": "Construction",
+      "description": "High-quality construction services for residential and commercial projects."
+    },
+    {
+      "title": "Renovation",
+      "description": "Transform and upgrade your spaces with expert renovation services."
+    },
+    {
+      "title": "Consulting",
+      "description": "Professional consulting services to guide your construction projects."
+    },
+    {
+      "title": "Maintenance",
+      "description": "Reliable maintenance solutions to keep your properties in top condition."
+    }
+  ],
+  "readMore": "Read More",
+  "readLess": "Read Less",
+  "expandedText": "We ensure top-notch service and client satisfaction.",
+  "learnMore": "Learn More →"
+},
+"Construction": {
+  "heroTitle": "Construction Services",
+  "heroSubtitle": "Building your vision with precision and expertise",
+  "header": "Our Construction Expertise",
+  "description": "Our construction team delivers high-quality buildings tailored to your needs, ensuring durability and innovation in every project.",
+  "imageAlt": "Construction Services",
+  "features": [
+    "Reliable & durable construction",
+    "Modern architectural designs",
+    "Advanced building technologies",
+    "Experienced engineers & workers"
+  ],
+  "button": "Get a Quote"
+},
+"Consulting": {
+  "heroTitle": "Consulting Services",
+  "heroSubtitle": "Expert advice to help your projects succeed",
+  "header": "Professional Consulting Solutions",
+  "description": "We provide expert consulting services to help you plan and execute successful projects with confidence.",
+  "imageAlt": "Consulting Services",
+  "features": [
+    "Experienced industry professionals",
+    "Customized solutions for your needs",
+    "Innovative strategies & insights",
+    "Maximize efficiency & profitability"
+  ],
+  "button": "Get Consultation"
+},
+"Maintenance": {
+  "heroTitle": "Maintenance Services",
+  "heroSubtitle": "Reliable solutions to keep your property in top condition",
+  "header": "Why Choose Our Maintenance Services?",
+  "imageAlt": "Maintenance Services",
+  "description": "Our maintenance services ensure that your property remains in excellent condition year-round. From repairs to routine checkups, we handle everything professionally and efficiently.",
+  "features": [
+    "Expert technicians available 24/7",
+    "Fast response and on-time service",
+    "Comprehensive maintenance plans",
+    "Emergency support when you need it"
+  ],
+  "button": "Request Maintenance"
+},
+"Renovation": {
+  "heroTitle": "Renovation Services",
+  "heroSubtitle": "Transforming spaces with modern and stylish upgrades",
+  "header": "Why Renovate with Us?",
+  "imageAlt": "Renovation Services",
+  "description": "We bring old spaces to life with creative renovation solutions, giving your property a fresh and modern look.",
+  "features": [
+    "Full interior & exterior upgrades",
+    "Quality materials & craftsmanship",
+    "Modern designs & layouts",
+    "Customized renovations for every need"
+  ],
+  "button": "Start Renovation"
+}
+}

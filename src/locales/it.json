@@ -1,0 +1,306 @@
+{
+  "Achievements": {
+    "header": {
+      "before": "I nostri",
+      "highlight": "Risultati"
+    },
+    "achievements": [
+      {
+        "title": "Oltre 50 progetti di successo",
+        "description": "Abbiamo completato oltre 50 progetti di alta qualità, offrendo eccellenza ogni volta."
+      },
+      {
+        "title": "Più di 10 premi vinti",
+        "description": "Riconosciuti per la nostra innovazione e qualità nei servizi di costruzione."
+      },
+      {
+        "title": "Oltre 200 clienti soddisfatti",
+        "description": "La soddisfazione del cliente è al centro del nostro business, con oltre 200 clienti felici."
+      },
+      {
+        "title": "Più di 30 progetti in corso",
+        "description": "Attualmente stiamo lavorando su oltre 30 progetti, mantenendo il nostro slancio nel settore."
+      }
+    ]
+  },
+  "CallToAction": {
+    "header": {
+      "before": "Perché scegliere",
+      "highlight": "BS GROUP SRL?"
+    },
+    "services": [
+      {
+        "title": "Costruzioni di alta qualità",
+        "description": "Offriamo servizi di costruzione di prim'ordine con precisione ed efficienza."
+      },
+      {
+        "title": "Architettura moderna",
+        "description": "I nostri progetti combinano innovazione e funzionalità per risultati straordinari."
+      },
+      {
+        "title": "Approccio incentrato sul cliente",
+        "description": "Collaboriamo strettamente con i nostri clienti per garantire soddisfazione ed eccellenza."
+      }
+    ],
+    "link": "Scopri i nostri servizi"
+  },
+  "Footer": {
+    "companyInfo": {
+      "name": "BS GROUP SRL",
+      "tagline": "Costruire il futuro con innovazione ed eccellenza."
+    },
+    "quickLinks": {
+      "header": "Link rapidi",
+      "items": ["Home", "Chi siamo", "Servizi", "Progetti", "Contatto"]
+    },
+    "contact": {
+      "title": "Contatto",
+      "address": "Via Marcantonio del re ,6 Milano 20156",
+      "phone": "+39 327 944 9458",
+      "email": "info@bsgroupsrl.net"
+    },
+    "copyright": "© 2025 BS GROUP SRL. Tutti i diritti riservati."
+  },
+  "HeroBackground": {
+    "title": "Costruire il futuro, <1>Oggi</1>",
+    "subtitle": "Servizi di costruzione di alta qualità con innovazione ed eccellenza.",
+    "buttons": {
+      "viewProjects": "Visualizza i progetti",
+      "getInTouch": "Contattaci"
+    }
+  },
+  "Navbar": {
+  "logo": {
+    "group": "BS GROUP",
+    "srl": "SRL"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "Chi siamo",
+    "projects": "Progetti",
+    "contact": "Contatti"
+  },
+  "dropdown": {
+    "services": "Servizi",
+    "construction": "Costruzione",
+    "renovation": "Ristrutturazione",
+    "consulting": "Consulenza",
+    "maintenance": "Manutenzione"
+  }
+},
+"OurTeam": {
+  "header": "Conosci il nostro <1>Team</1>",
+  "teamMembers": [
+    {
+      "name": "Bebo Donga",
+      "role": "CEO e Fondatore"
+    },
+    {
+      "name": "Simo",
+      "role": "Project Manager"
+    },
+    {
+      "name": "Emma Mechrgui",
+      "role": "Ingegnere Capo"
+    },
+    {
+      "name": "Franshisco",
+      "role": "Geometra"
+    }
+  ]
+},
+"RecentProjects": {
+  "header": "I nostri <1>Progetti Recenti</1>",
+  "projects": [
+    {
+      "title": "Edificio per uffici moderno",
+      "description": "Uno spazio per uffici all'avanguardia progettato per la produttività e l'estetica."
+    },
+    {
+      "title": "Complesso residenziale di lusso",
+      "description": "Un progetto residenziale di alta gamma che unisce lusso e sostenibilità."
+    },
+    {
+      "title": "Magazzino industriale",
+      "description": "Un magazzino efficiente con infrastrutture moderne per logistica e stoccaggio."
+    }
+  ],
+  "viewDetails": "Vedi dettagli →",
+  "viewAllProjects": "Vedi tutti i progetti"
+},
+"Statistics": {
+  "header": "Perché scegliere <1>noi?</1>",
+  "stats": [
+    {
+      "label": "Progetti completati"
+    },
+    {
+      "label": "Premi di settore"
+    },
+    {
+      "label": "Clienti soddisfatti"
+    },
+    {
+      "label": "Progetti in corso"
+    }
+  ]
+},
+"Testimonials": {
+  "header": {
+    "before": "Cosa dicono i nostri",
+    "highlight": "clienti"
+  },
+  "testimonials": [
+    {
+      "name": "John Doe",
+      "role": "CEO, Skyline Constructions",
+      "feedback": "BS GROUP SRL ha consegnato il nostro progetto in tempo con qualità eccezionale. La loro professionalità e competenza hanno reso l'intero processo senza intoppi."
+    },
+    {
+      "name": "Sarah Smith",
+      "role": "Project Manager, GreenBuild",
+      "feedback": "La loro attenzione ai dettagli e l'impegno per l'eccellenza sono impareggiabili. Li raccomando vivamente per qualsiasi progetto di costruzione."
+    },
+    {
+      "name": "Michael Brown",
+      "role": "Proprietario, Elite Properties",
+      "feedback": "Lavorare con BS GROUP SRL è stata un'esperienza fantastica. Il loro team ha superato le nostre aspettative in ogni modo possibile."
+    }
+  ]
+},
+"TrustedPartners": {
+  "header": {
+    "before": "I nostri",
+    "highlight": "Partner Fidati"
+  },
+  "partners": [
+    { "name": "Partner 1" },
+    { "name": "Partner 2" },
+    { "name": "Partner 3" },
+    { "name": "Partner 4" },
+    { "name": "Partner 5" }
+  ]
+},
+"About": {
+  "header": "Chi siamo di <1>BS GROUP SRL</1>",
+  "description": "BS GROUP SRL è specializzata in servizi di ristrutturazioni chiavi in mano. L' impresa è esperta in lavori di ristrutturazioni chiavi in mano di appartamenti e negozi. Il cliente affidandosi a BS GROUP SRL , potrà contare su personale qualificato in grado di rispondere a tutte le domande e i dubbi risolvendo ogni tipo di problematica. L'impresa edile eroga un servizio completo che comprende: redazione di una valutazione economica, realizzazione del progetto, pianificazione, gestione e supervisione delle lavorazioni, e infine coordinamento di tutti i prestatori dopera e dei fornitori. Effettua preventivi gratuiti e rimane a disposizione per assistenza al cliente prima, durante e dopo la realizzazione delle opere."
+},
+"Contact": {
+  "sectionHeader": "Contattaci",
+  "sectionParagraph": "Ci piacerebbe avere tue notizie! Mettiti in contatto con noi per richieste, collaborazioni o semplicemente per dire ciao.",
+  "cards": {
+    "address": {
+      "title": "Indirizzo",
+      "text": "Via Marcantonio del re ,6 Milano 20156"
+    },
+    "phone": {
+      "title": "Telefono",
+      "text": "+39 327 9449458"
+    },
+    "email": {
+      "title": "Email",
+      "text": "info@bsgroupsrl.net"
+    }
+  },
+  "form": {
+    "heading": "Inviaci un messaggio",
+    "input": {
+      "name": "Il tuo nome",
+      "email": "La tua email",
+      "message": "Il tuo messaggio"
+    },
+    "button": "Invia messaggio",
+    "success": "Messaggio inviato con successo!",
+    "error": "Invio del messaggio fallito. Riprova."
+  },
+  "location": {
+    "heading": "📍 La nostra posizione"
+  }
+},
+"Projects": {
+  "header": "I nostri progetti",
+  "description": "Siamo orgogliosi di realizzare progetti di costruzione di alta qualità che resistono alla prova del tempo.",
+  "imageAlt": "Progetto {{index}}"
+},
+"Services": {
+  "header": "Cosa offriamo",
+  "services": [
+    {
+      "title": "Costruzione",
+      "description": "Servizi di costruzione di alta qualità per progetti residenziali e commerciali."
+    },
+    {
+      "title": "Ristrutturazione",
+      "description": "Trasforma e migliora i tuoi spazi con servizi di ristrutturazione esperti."
+    },
+    {
+      "title": "Consulenza",
+      "description": "Servizi di consulenza professionale per guidare i tuoi progetti di costruzione."
+    },
+    {
+      "title": "Manutenzione",
+      "description": "Soluzioni di manutenzione affidabili per mantenere le tue proprietà in condizioni ottimali."
+    }
+  ],
+  "readMore": "Leggi di più",
+  "readLess": "Leggi meno",
+  "expandedText": "Garantiamo un servizio eccellente e la soddisfazione del cliente.",
+  "learnMore": "Scopri di più →"
+},
+"Construction": {
+  "heroTitle": "Servizi di Costruzione",
+  "heroSubtitle": "Costruiamo la tua visione con precisione ed esperienza",
+  "header": "La Nostra Competenza Costruttiva",
+  "description": "Il nostro team di costruzione realizza edifici di alta qualità su misura per le tue esigenze, garantendo durabilità e innovazione in ogni progetto.",
+  "imageAlt": "Servizi di Costruzione",
+  "features": [
+    "Costruzione affidabile e durevole",
+    "Design architettonici moderni",
+    "Tecnologie costruttive avanzate",
+    "Ingegneri e operai esperti"
+  ],
+  "button": "Richiedi un preventivo"
+},
+"Consulting": {
+  "heroTitle": "Servizi di consulenza",
+  "heroSubtitle": "Consulenze esperte per far decollare i tuoi progetti",
+  "header": "Soluzioni di consulenza professionale",
+  "description": "Offriamo servizi di consulenza esperti per aiutarti a pianificare e realizzare progetti di successo con fiducia.",
+  "imageAlt": "Servizi di consulenza",
+  "features": [
+    "Professionisti del settore esperti",
+    "Soluzioni personalizzate per le tue esigenze",
+    "Strategie innovative e approfondimenti",
+    "Massimizzazione dell'efficienza e della redditività"
+  ],
+  "button": "Richiedi consulenza"
+},
+"Maintenance": {
+  "heroTitle": "Servizi di manutenzione",
+  "heroSubtitle": "Soluzioni affidabili per mantenere la tua proprietà in condizioni ottimali",
+  "header": "Perché scegliere i nostri servizi di manutenzione?",
+  "imageAlt": "Servizi di manutenzione",
+  "description": "I nostri servizi di manutenzione garantiscono che la tua proprietà rimanga in condizioni eccellenti tutto l'anno. Dalle riparazioni ai controlli di routine, gestiamo tutto in modo professionale ed efficiente.",
+  "features": [
+    "Tecnici esperti disponibili 24/7",
+    "Risposta rapida e servizio puntuale",
+    "Piani di manutenzione completi",
+    "Supporto d'emergenza quando necessario"
+  ],
+  "button": "Richiedi manutenzione"
+},
+"Renovation": {
+  "heroTitle": "Servizi di ristrutturazione",
+  "heroSubtitle": "Trasformare gli spazi con aggiornamenti moderni e di stile",
+  "header": "Perché ristrutturare con noi?",
+  "imageAlt": "Servizi di ristrutturazione",
+  "description": "Ridiamo vita agli spazi vecchi con soluzioni creative di ristrutturazione, dando alla tua proprietà un aspetto fresco e moderno.",
+  "features": [
+    "Aggiornamenti completi per interni ed esterni",
+    "Materiali di alta qualità & artigianato",
+    "Design moderni & layout innovativi",
+    "Ristrutturazioni personalizzate per ogni esigenza"
+  ],
+  "button": "Inizia la ristrutturazione"
+}
+}
