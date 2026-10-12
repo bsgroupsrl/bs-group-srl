@@ -1,12 +1,33 @@
-# React + Vite
+# BS GROUP SRL
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Sito aziendale React e Vite.
 
-Currently, two official plugins are available:
+## Avvio e build
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+```sh
+npm ci
+npm run dev
+npm run build
+```
 
-## Expanding the ESLint configuration
+La build di produzione viene generata in `dist`. Su Vercel: framework Vite, build `npm run build`, output `dist`. La configurazione `vercel.json` permette di aprire direttamente le pagine del sito.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Contenuti aggiornati
+
+- Banner del marchio e stile approvati.
+- Testi italiani per edilizia, ristrutturazioni, finiture e manutenzione.
+- Pagina `/team` e team anche in `/about`: Bebo Ebid, Simone Mosaad, Francesco Mastrodonato.
+- Numero principale +39 351 923 6594; contatto diretto della direzione tecnica separato.
+- Credito nel footer: Website by Ing.Bebo Ebid.
+- Progetti: in attesa di fotografie e descrizioni degli interventi reali.
+- Contatti tramite telefono e collegamento email.
+
+Le URL precedenti dei servizi sono conservate. `/services/finiture` e `/services/consulting` mostrano lo stesso servizio di finitura. I pulsanti email aprono il programma di posta del visitatore; non mostrano conferme di invio automatico.
+
+## Pubblicazione
+
+Verificare nel progetto Vercel il repository `bsgroupsrl/bs-group-srl`, il ramo di produzione e il dominio `bsgroupsrl.net` prima di pubblicare. Per aggiornare tramite GitHub, estrarre l'archivio e caricare i file nella radice del repository, mantenendo `src` e `public` nella radice. Non caricare l'archivio ZIP come file del sito.
+
+## Verifiche
+
+Build di produzione completata. Verificati rendering, collegamenti interni, immagini, ruoli, contatti e credito su 11 percorsi. Verifica visiva in browser del sito pubblicato da effettuare dopo il deploy.

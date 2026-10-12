@@ -1,68 +1,7 @@
-import { motion } from "framer-motion";
-import { Link } from "react-router-dom";
-import { Wrench, Building, Users } from "lucide-react";
-import { useTranslation } from "react-i18next";
+import { Link, NavLink } from "react-router-dom";
 
-function CallToAction() {
-  const { t } = useTranslation();
-
-  // Store icons only; text is retrieved via translation keys.
-  const servicesData = [
-    {
-      icon: <Wrench size={40} />,
-    },
-    {
-      icon: <Building size={40} />,
-    },
-    {
-      icon: <Users size={40} />,
-    },
-  ];
-
-  return (
-    <section className="py-16 bg-gray-100 text-gray-900">
-      <div className="container mx-auto px-6">
-        <h2 className="text-4xl font-bold text-center mb-10">
-          {t("CallToAction.header.before")}{" "}
-          <span className="text-yellow-500">
-            {t("CallToAction.header.highlight")}
-          </span>
-        </h2>
-
-        <div className="grid md:grid-cols-3 gap-8">
-          {servicesData.map((service, index) => (
-            <motion.div
-              key={index}
-              className="bg-white p-6 rounded-xl shadow-lg text-center"
-              initial={{ opacity: 0, y: 30 }}
-              whileInView={{ opacity: 1, y: 0 }}
-              transition={{ duration: 0.6, delay: index * 0.2 }}
-              viewport={{ once: true }}
-            >
-              <div className="text-yellow-500 flex justify-center mb-4">
-                {service.icon}
-              </div>
-              <h3 className="text-xl font-semibold mb-2">
-                {t(`CallToAction.services.${index}.title`)}
-              </h3>
-              <p className="text-gray-600">
-                {t(`CallToAction.services.${index}.description`)}
-              </p>
-            </motion.div>
-          ))}
-        </div>
-
-        <div className="text-center mt-10">
-          <Link 
-            to="/services" 
-            className="px-6 py-3 bg-yellow-500 text-black font-bold rounded-lg hover:bg-yellow-600 transition"
-          >
-            {t("CallToAction.link")}
-          </Link>
-        </div>
-      </div>
-    </section>
-  );
+export default function CallToAction() {
+  return (<>
+    <section className={"section gray"}><div className={"wrap"}><h2>{"Come lavoriamo con "}<span className={"yellow"}>{"te"}</span></h2><div className={"cards"}><article className={"card"}><div className={"symbol"} aria-hidden={"true"}>{"1"}</div><h3>{"Lavorazioni definite"}</h3><p>{"Prima di iniziare, individuiamo le opere da eseguire e prepariamo una proposta per il lavoro richiesto."}</p></article><article className={"card"}><div className={"symbol"} aria-hidden={"true"}>{"2"}</div><h3>{"Un contatto diretto"}</h3><p>{"Puoi parlare con la società per spiegare il problema, chiedere informazioni e organizzare il sopralluogo."}</p></article><article className={"card"}><div className={"symbol"} aria-hidden={"true"}>{"3"}</div><h3>{"Attività coordinate"}</h3><p>{"Concordiamo l’organizzazione del lavoro con il referente e coinvolgiamo tecnici esterni quando servono."}</p></article></div><div className={"center space"}><Link className={"btn"} to={"/services"}>{"Scopri i nostri servizi"}</Link></div></div></section>
+  </>);
 }
-
-export default CallToAction;
