@@ -19,7 +19,8 @@ La build di produzione viene generata in `dist`. Su Vercel: framework Vite, buil
 - Pagina `/team` e team anche in `/about`: Bebo Ebid, Simone Mosaad, Francesco Mastrodonato.
 - Numero principale +39 351 923 6594; contatto diretto della direzione tecnica separato.
 - Credito nel footer: Website by Ing.Bebo Ebid.
-- Progetti: in attesa di fotografie e descrizioni degli interventi reali.
+- Progetti: gallerie fotografiche di Via Claudio Galeno 22 (16 foto), Villasanta (5 foto) e Agrate Brianza (9 foto), con logo BS GROUP SRL e navigazione da tastiera.
+- Ordine previsto: Galeno, Via Roma 104, Progetti fotovoltaici, Villasanta, Agrate Brianza. Via Roma e fotovoltaico saranno inseriti quando i relativi file saranno disponibili.
 - Contatti tramite telefono e collegamento email.
 
 Le URL precedenti dei servizi sono conservate. `/services/finiture` e `/services/consulting` mostrano lo stesso servizio di finitura. I pulsanti email aprono il programma di posta del visitatore; non mostrano conferme di invio automatico.
