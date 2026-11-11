@@ -1,7 +1,7 @@
 import { useEffect, useRef, useState } from 'react';
 import { projects } from '@/data/projects';
 import './ProjectGallery.css';
-const logo = '/images/projects/bs-group-logo.webp';
+const logo = '/images/brand-logo-v2.svg';
 
 function BrandedPhoto({ photo, eager = false, contain = false }) {
   return <div className={`project-photo${contain ? ' project-photo--contain' : ''}`}>
