@@ -1,7 +1,7 @@
 import { useEffect } from "react";
 import { useLocation } from "react-router-dom";
 
-const origin = "https://bsgroupsrl.net";
+const origin = "https://www.bsgroupsrl.net";
 const pages = {
   "/": [
     "Edilizia e manutenzione a Milano | BS GROUP SRL",
