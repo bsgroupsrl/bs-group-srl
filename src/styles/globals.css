@@ -2,3 +2,9 @@
 .reference-menu a[aria-current="page"]{color:#8c6800;font-weight:bold}.skip-link{position:absolute;left:16px;top:-80px;background:#fff;padding:10px 18px;z-index:100}.skip-link:focus{top:12px}.reference-banner img{aspect-ratio:1079/216}.service-overview .service-card{display:flex;flex-direction:column}.service-overview .service-card .btn{align-self:flex-start;margin-top:auto}.service-overview .service-card ul{flex:1}.detail-header{padding:70px 24px;background:#111827;color:white;text-align:center}.detail-header h1{font-size:40px;line-height:1.2;margin:0 0 18px}.detail-header p{max-width:750px;margin:auto;color:#d1d5db}.detail-body{max-width:850px;margin:auto}.detail-body h2{text-align:left;font-size:30px}.detail-body p,.detail-body li{color:#4b5563}.detail-body li{margin:10px 0}.not-found{text-align:center;padding:80px 20px}main{min-height:50vh}@media(max-width:480px){.four{grid-template-columns:1fr}.hero h1{font-size:30px}.detail-header h1{font-size:30px}}@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
 
 .service-more{display:inline-block;margin-top:20px;color:#7a5b00;text-decoration:underline;text-underline-offset:5px;font-size:14px;font-weight:bold}
+
+/* Keyboard access and readable mobile controls */
+:where(button, input, textarea, select, [tabindex]):focus-visible{outline:3px solid #8c6800;outline-offset:4px}
+.reference-menu nav a{display:inline-flex;align-items:center;min-height:44px;padding:4px 6px}
+.footer a{min-height:44px;padding:8px 0}
+@media(prefers-reduced-motion:reduce){*,*::before,*::after{animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important}}
