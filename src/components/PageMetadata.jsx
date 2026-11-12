@@ -39,6 +39,14 @@ const pages = {
     "Progetti e lavori realizzati | BS GROUP SRL",
     "Guarda le fotografie dei lavori e dei progetti realizzati da BS GROUP SRL: edilizia, ristrutturazioni e finiture."
   ],
+  "/privacy": [
+    "Informativa sulla privacy | BS GROUP SRL",
+    "Informativa sul trattamento dei dati personali di BS GROUP SRL ai sensi del GDPR."
+  ],
+  "/cookie": [
+    "Cookie policy | BS GROUP SRL",
+    "Cookie policy del sito BS GROUP SRL: nessun cookie di profilazione e nessuna analisi di terze parti."
+  ],
   "/contact": [
     "Contatti e preventivi | BS GROUP SRL Milano",
     "Contatta BS GROUP SRL a Milano: +39 3519236594, info@bsgroupsrl.net. Descrivi i lavori per richiedere un preventivo."

@@ -32,6 +32,7 @@ export default function Footer() {
         <div className="copyright">
           © 2026 BS GROUP SRL · P. IVA 12973770964 · REA MI-2696205 · Capitale sociale € 10.000
         </div>
+        <div className="legal-links"><Link to="/privacy">Privacy policy</Link><Link to="/cookie">Cookie policy</Link></div>
         <div className="site-credit"><small>Website by Ing. Bebo Ebid</small></div>
       </div>
     </footer>

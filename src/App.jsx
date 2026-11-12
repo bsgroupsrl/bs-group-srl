@@ -5,6 +5,8 @@ import Team from "@/pages/Team";
 import Services from "@/pages/Services";
 import Projects from "@/pages/Projects";
 import Contact from "@/pages/Contact";
+import Privacy from "@/pages/Privacy";
+import Cookie from "@/pages/Cookie";
 import Construction from "@/services/Construction";
 import Renovation from "@/services/Renovation";
 import Consulting from "@/services/Consulting";
@@ -26,6 +28,8 @@ export default function App() {
   <Route path="/services/maintenance" element={<Maintenance />} />
   <Route path="/projects" element={<Projects />} />
   <Route path="/contact" element={<Contact />} />
+  <Route path="/privacy" element={<Privacy />} />
+  <Route path="/cookie" element={<Cookie />} />
   <Route path="*" element={<section className="not-found"><h1>Pagina non trovata</h1><Link className="btn" to="/home">Torna alla Home</Link></section>} />
  </Routes></Layout></BrowserRouter>;
 }
